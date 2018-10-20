@@ -1,5 +1,5 @@
 # KickStart-My-Chart
-Excel assignment
+UC Berkeley Data Analytics Excel Assignment
 
 ## Unit 1 | Assignment - KickStart My Chart
 
